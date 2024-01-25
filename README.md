@@ -1,2 +1,2 @@
 # data_collection_memristor
-Data acquisition codes for the Mohseni Group neuromorphic computing testing setup
+This is the basic code required to run the Mohseni Group neuromorphic computing test and measurement setup. It includes driver codes for all of the data acquisition hardware and the instrument relay in the folder "instr_inter", and all of the basic scan software codes. "tpulse_current_scan.py" has all the functionality required to take pulse, retention, and noise measurements on our TiO2/Al2O3 memristive devices. 
